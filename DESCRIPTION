@@ -1,0 +1,18 @@
+Package: scatterplot
+Type: Package
+Title: Tools for Scatterplots with Regression Line
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Martin", "Blasi",
+      email = "blasi.martin99@gmail.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: Provides simple tools for making scatterplots with regression lines and saving them to PDF.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports:
+    ggplot2
+RoxygenNote: 7.3.2
